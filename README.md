@@ -38,7 +38,7 @@
 ```bash
 root@aacc1on:~# whoami
 > Hrach Sahakyan (aacc1on)
-> Cybersecurity Student @ UFAR, Yerevan, Armenia
+> Cybersecurity Student, Yerevan, Armenia
 > SOC Analyst — Blue Team focus
 > DevSecOps contributor @ E-Guard (GRC platform startup)
 
