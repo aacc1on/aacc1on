@@ -22,7 +22,7 @@
      to change the rotating text, `color=` for the text color, `size=` for font size.
      ============================================================ -->
 <a href="https://github.com/aacc1on">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&height=50&background=0D1117&lines=Cybersecurity+Student+%40+UFAR;SOC+Analyst+Intern;DevSecOps+%40+E-Guard+GRC;Blue+Team+%7C+DFIR+%7C+Threat+Hunting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&height=50&background=0D1117&lines=Cybersecurity+Student+%40+UFAR;SOC+Analyst;DevSecOps+%40+E-Guard+GRC;Blue+Team+%7C+DFIR+%7C+Threat+Hunting" alt="Typing SVG" />
 </a>
 
 </div>
@@ -39,7 +39,7 @@
 root@aacc1on:~# whoami
 > Hrach Sahakyan (aacc1on)
 > Cybersecurity Student @ UFAR, Yerevan, Armenia
-> SOC Analyst Intern — Blue Team focus
+> SOC Analyst — Blue Team focus
 > DevSecOps contributor @ E-Guard (GRC platform startup)
 
 root@aacc1on:~# cat current_focus.txt
